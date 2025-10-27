@@ -4,8 +4,6 @@ description: Quiz on the film, "Atanarjuat."
 file: /courses/21l-007-world-literatures-travel-writing-fall-2008/bca266f53ec2420893f00700dc3e8643_quiz_questions.pdf
 file_size: 58948
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

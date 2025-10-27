@@ -5,8 +5,6 @@ description: "Guidelines and instructions for an assignment to write an analytic
 file: /courses/21l-007-world-literatures-travel-writing-fall-2008/a4a3c6f93aa56eef4655a6ba80975b14_essay_guidelines.pdf
 file_size: 64981
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

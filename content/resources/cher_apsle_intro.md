@@ -5,8 +5,6 @@ description: 'Class handout containing reading notes for Cherry Apsley-Garrard''
 file: /courses/21l-007-world-literatures-travel-writing-fall-2008/324a9becacfc55116219fb2c8e5f8997_cher_apsle_intro.pdf
 file_size: 70197
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

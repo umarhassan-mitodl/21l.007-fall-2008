@@ -4,8 +4,6 @@ description: Instructions for an assignment to compare a pair of texts.
 file: /courses/21l-007-world-literatures-travel-writing-fall-2008/cebb2bfb6bace44f26f67cb9835e68c1_revision1.pdf
 file_size: 58819
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

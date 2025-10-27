@@ -5,8 +5,6 @@ description: Class handout containing comments on the issues students raised, an
 file: /courses/21l-007-world-literatures-travel-writing-fall-2008/833f1e681baa0dc6cbb64cf0f360e9ff_writ_work_hand.pdf
 file_size: 91827
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

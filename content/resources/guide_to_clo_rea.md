@@ -4,8 +4,6 @@ description: Guidelines on close reading.
 file: /courses/21l-007-world-literatures-travel-writing-fall-2008/d14006fe81f0f0b87289594f16972d2a_guide_to_clo_rea.pdf
 file_size: 76036
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

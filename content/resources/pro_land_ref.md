@@ -5,8 +5,6 @@ description: A selection of references to the promised land in the Hebrew Bible 
 file: /courses/21l-007-world-literatures-travel-writing-fall-2008/acb95058cfcfdf984acb2ebe4dc88b40_pro_land_ref.pdf
 file_size: 63296
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

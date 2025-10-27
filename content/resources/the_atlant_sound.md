@@ -5,8 +5,6 @@ description: Class handout containing reading notes on Caryl Phillips' The Atlan
 file: /courses/21l-007-world-literatures-travel-writing-fall-2008/43b44852b4c30ba4263846b4389a510d_the_atlant_sound.pdf
 file_size: 76685
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

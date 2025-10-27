@@ -5,8 +5,6 @@ description: 'Class handout containing reading notes for chapters 12-17 of Cherr
 file: /courses/21l-007-world-literatures-travel-writing-fall-2008/cbd25762e1949e2a02f5e932385eec96_cher_aps_ch12_19.pdf
 file_size: 67867
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

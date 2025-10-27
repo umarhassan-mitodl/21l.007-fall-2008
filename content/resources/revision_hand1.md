@@ -5,8 +5,6 @@ description: General guidelines and sample introductions for the writing assignm
 file: /courses/21l-007-world-literatures-travel-writing-fall-2008/22e1c5c10c7ef04a14b8d9613d0b8ecf_revision_hand1.pdf
 file_size: 79964
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
